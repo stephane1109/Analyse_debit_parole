@@ -1,6 +1,11 @@
+######################
+# www.codeandcortex.fr
+######################
 # analysepauses.py
+
 import pandas as pd
 import altair as alt
+
 def analyser_pauses(transcript_segments, seuil=1.0):
     """
     Analyse les pauses entre les segments transcrits.
