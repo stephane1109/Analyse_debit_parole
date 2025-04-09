@@ -1,3 +1,8 @@
+######################
+# www.codeandcortex.fr
+######################
+# analysedebit.py
+
 import os
 import re
 import unicodedata
