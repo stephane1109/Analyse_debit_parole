@@ -1,3 +1,6 @@
+######################
+# www.codeandcortex.fr
+######################
 import streamlit as st
 from analysedebit import analyser_debit, format_timestamp
 from analysepauses import analyser_pauses, generer_export_pauses, graph_pauses
