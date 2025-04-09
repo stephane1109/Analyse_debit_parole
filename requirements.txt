@@ -1,1 +1,7 @@
-
+openai-whisper
+yt-dlp 
+moviepy 
+altair
+streamlit
+pandas
+vl-convert-python
