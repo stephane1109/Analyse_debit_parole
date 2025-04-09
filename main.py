@@ -7,9 +7,9 @@ from analysepauses import analyser_pauses, generer_export_pauses, graph_pauses
 
 st.title("Analyse du débit de parole d'une vidéo YouTube")
 st.markdown("""
-Cette application télécharge une vidéo via yt-dlp, découpe un sous-clip et le transcrit avec Whisper.
+Cette application télécharge une vidéo, découpe un sous-clip et le transcrit avec Whisper.
 Choisissez la méthode de segmentation :
-- **whisper** : segmentation automatique effectué par Whisper.
+- **whisper** : segmentation automatique effectuée par Whisper.
 - **ponctuation** : découpage de la transcription par ponctuation sur la base des timestamps.
 L'analyse inclut l'intégralité du segment défini.
 """)
