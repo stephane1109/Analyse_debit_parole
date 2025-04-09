@@ -5,3 +5,4 @@ altair
 streamlit
 pandas
 vl-convert-python
+ffmpeg
